@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439959682945",
+    "project_id": "kushallogin",
+    "storage_bucket": "kushallogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439959682945:android:8e62fe141107768c787280",
+        "android_client_info": {
+          "package_name": "com.kushaldevgun.login_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439959682945-gn61o31u3bhb4sf5rdccamldkqm3rsau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXyW-kkMkZQ-1x_kttBYXNk-ogwh0kKeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439959682945-gn61o31u3bhb4sf5rdccamldkqm3rsau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
