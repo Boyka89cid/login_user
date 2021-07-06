@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "439959682945-gjgspiqn2so79t3hgoc8858k29fth69r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kushaldevgun.login_user",
+            "certificate_hash": "cb1f2515438503f53a5a1b8623d0cdfae4468541"
+          }
+        },
+        {
           "client_id": "439959682945-gn61o31u3bhb4sf5rdccamldkqm3rsau.apps.googleusercontent.com",
           "client_type": 3
         }
